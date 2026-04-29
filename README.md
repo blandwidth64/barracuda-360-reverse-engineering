@@ -1,6 +1,6 @@
-# barracuda-360-reverse-engineering
+# winchester-360-reverse-engineering
 
-a work in progress very early steps reverse engineering of the RETAIL winchester (or barracuda) motherboard of the xbox 360 line.
+a work in progress very early steps reverse engineering of the RETAIL winchester motherboard of the xbox 360 line.
 
 goals: 
  > get values for as many smd components (mainly resistors and capacitors) as possible; 
